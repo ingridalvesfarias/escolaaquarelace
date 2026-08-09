@@ -113,7 +113,7 @@ Projeto desenvolvido por **INDI.dev — Ingrid Farias**, desenvolvedora Full Sta
 ### 🔗 Onde me encontrar
 
 * 💼 **Portfolio:** [ingridfarias.vercel.app](https://ingridfarias.vercel.app/)
-* 📸 **Instagram:** [@escolaaquarelace](https://www.instagram.com/escolaaquarelace/)
+* 💼 **LinkedIn:** [linkedin.com/in/ingridalvesfarias](https://www.linkedin.com/in/ingridalvesfarias/)
 
 ---
 
